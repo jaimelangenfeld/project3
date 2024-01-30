@@ -13,6 +13,7 @@ government sources not stolen data,
 they let us know that data was different and sometimes couldn't be compared, 
 letting know limitations overtime and giving us the information making users aware of when their data can/cannot be used
 privacy protected because the data does not include names or other personal information
+keeping in mind over-policing in certain cities/areas
 
 
 #References for the data source(s)
