@@ -16,6 +16,9 @@ privacy protected because the data does not include names or other personal info
 keeping in mind over-policing in certain cities/areas
 
 
+#Slideshow link
+https://docs.google.com/presentation/d/1uAj8pmw2FcNiddMKTQGxefDyAFlQliXPUzewAvdSPPc/edit?usp=sharing
+
 #References for the data source(s)
 
 
