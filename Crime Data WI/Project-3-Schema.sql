@@ -38,3 +38,4 @@ CREATE TABLE "2019_Data" (
      )
 );
 
+SELECT * FROM "2019_Data"
